@@ -56,3 +56,6 @@ textsublime 插件安装：
 https://packagecontrol.io/installation#st2
 
 http://www.v2ex.com/t/31731
+
+前端学习网站：
+http://www.html5tricks.com
