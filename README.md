@@ -59,3 +59,15 @@ http://www.v2ex.com/t/31731
 
 前端学习网站：
 http://www.html5tricks.com
+
+移动端UI库
+
+SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库 http://m.sui.taobao.org/components/
+
+http://onsen.io/download.html
+
+http://www.idangero.us/framework7/#.VmqUi15RK_V
+
+由微信官方设计团队为微信 Web 开发 https://github.com/weui/weui
+
+
