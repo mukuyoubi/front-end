@@ -71,3 +71,9 @@ http://www.idangero.us/framework7/#.VmqUi15RK_V
 由微信官方设计团队为微信 Web 开发 https://github.com/weui/weui
 
 
+白色橡树移动端资源整理：
+http://www.cnblogs.com/PeunZhang/p/3407453.html
+
+avalon，B站也在使用的。
+http://avalonjs.github.io/
+
